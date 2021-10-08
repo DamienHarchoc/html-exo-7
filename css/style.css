@@ -1,0 +1,13 @@
+.rectangle {
+   background : rgb(92, 115, 190);
+}
+.rectangleblue { 
+    background : rgb(140, 8, 216);
+}
+.rectanglered {
+    background-color:rgb(228, 0, 95);
+}
+
+div{
+    float: initial;
+}
